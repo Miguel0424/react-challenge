@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "customerId": 1,
+      "month": "January",
+      "amount": 120
+    },
+    {
+      "customerId": 2,
+      "month": "January",
+      "amount": 75
+    },
+    {
+      "customerId": 1,
+      "month": "February",
+      "amount": 150
+    },
+    {
+      "customerId": 2,
+      "month": "February",
+      "amount": 200
+    },
+    {
+      "customerId": 1,
+      "month": "March",
+      "amount": 50
+    },
+    {
+      "customerId": 2,
+      "month": "March",
+      "amount": 170
+    },
+    {
+      "customerId": 1,
+      "month": "April",
+      "amount": 20
+    },
+    {
+      "customerId": 2,
+      "month": "April",
+      "amount": 10
+    }
+  ]
+}
